@@ -7,3 +7,4 @@ special case
 eeeee
 fffff
 iiiii
+error
