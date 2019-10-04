@@ -7,4 +7,7 @@ special case
 eeeee
 fffff
 iiiii
-zzzzz
+error
+commA
+commB
+commC
