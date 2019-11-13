@@ -6,3 +6,5 @@ AA02 on master
 AA03 on master
 AA04 on master
 delta05
+delta01
+delta02
